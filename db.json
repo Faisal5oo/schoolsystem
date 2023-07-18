@@ -1,0 +1,232 @@
+{
+  "staff": [
+    {
+      "id": 21,
+      "name": "John Doe",
+      "position": "Principal",
+      "department": "Administration",
+      "experience": "15 years"
+    },
+    {
+      "id": 22,
+      "name": "Jane Smith",
+      "position": "Vice Principal",
+      "department": "Administration",
+      "experience": "12 years"
+    },
+    {
+      "id": 23,
+      "name": "Michael Johnson",
+      "position": "Head Teacher",
+      "department": "Academics",
+      "experience": "10 years"
+    },
+    {
+      "id": 24,
+      "name": "Emily Williams",
+      "position": "Librarian",
+      "department": "Library",
+      "experience": "8 years"
+    },
+    {
+      "id": 25,
+      "name": "David Brown",
+      "position": "Accountant",
+      "department": "Finance",
+      "experience": "6 years"
+    },
+    {
+      "id": 26,
+      "name": "Sarah Davis",
+      "position": "Nurse",
+      "department": "Health Services",
+      "experience": "4 years"
+    },
+    {
+      "id": 27,
+      "name": "Robert Wilson",
+      "position": "IT Coordinator",
+      "department": "Information Technology",
+      "experience": "7 years"
+    }
+  ],
+  "teachers": [
+    {
+      "id": 31,
+      "name": "John Doe",
+      "subject": "Mathematics",
+      "experience": "8 years",
+      "qualification": "Masters in Education"
+    },
+    {
+      "id": 32,
+      "name": "Jane Smith",
+      "subject": "Science",
+      "experience": "5 years",
+      "qualification": "Bachelor of Science"
+    },
+    {
+      "id": 33,
+      "name": "Feroz khan",
+      "subject": "Computer Science",
+      "experience": "5 years",
+      "qualification": "Ph.D. in computer science"
+    },
+    {
+      "id": 34,
+      "name": "Michael Johnson",
+      "subject": "English",
+      "experience": "10 years",
+      "qualification": "Ph.D. in English Literature"
+    },
+    {
+      "id": 35,
+      "name": "Michael Johnson",
+      "subject": "English",
+      "experience": "10 years",
+      "qualification": "Ph.D. in English Literature"
+    }
+  ],
+  "students": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "age": 20,
+      "major": "Computer Science",
+      "email": "johndoe@example.com"
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "age": 22,
+      "major": "Mathematics",
+      "email": "janesmith@example.com"
+    },
+    {
+      "id": 3,
+      "name": "Alex Johnson",
+      "age": 21,
+      "major": "Physics",
+      "email": "alexjohnson@example.com"
+    },
+    {
+      "id": 4,
+      "name": "Emily Davis",
+      "age": 19,
+      "major": "English Literature",
+      "email": "emilydavis@example.com"
+    },
+    {
+      "id": 5,
+      "name": "Michael Wilson",
+      "age": 23,
+      "major": "Business Administration",
+      "email": "michaelwilson@example.com"
+    },
+    {
+      "id": 6,
+      "name": "Olivia Thompson",
+      "age": 20,
+      "major": "Psychology",
+      "email": "oliviathompson@example.com"
+    },
+    {
+      "id": 7,
+      "name": "William Anderson",
+      "age": 21,
+      "major": "History",
+      "email": "williamanderson@example.com"
+    },
+    {
+      "id": 8,
+      "name": "Sophia Martinez",
+      "age": 22,
+      "major": "Sociology",
+      "email": "sophiamartinez@example.com"
+    },
+    {
+      "id": 9,
+      "name": "Daniel Harris",
+      "age": 19,
+      "major": "Chemistry",
+      "email": "danielharris@example.com"
+    },
+    {
+      "id": 10,
+      "name": "Ava Clark",
+      "age": 20,
+      "major": "Biology",
+      "email": "avaclark@example.com"
+    },
+    {
+      "id": 11,
+      "name": "James Lee",
+      "age": 21,
+      "major": "Economics",
+      "email": "jameslee@example.com"
+    },
+    {
+      "id": 12,
+      "name": "Mia Rodriguez",
+      "age": 22,
+      "major": "Political Science",
+      "email": "miarodriguez@example.com"
+    },
+    {
+      "id": 13,
+      "name": "Benjamin Young",
+      "age": 19,
+      "major": "Engineering",
+      "email": "benjaminyoung@example.com"
+    },
+    {
+      "id": 14,
+      "name": "Charlotte Moore",
+      "age": 20,
+      "major": "Communications",
+      "email": "charlottemoore@example.com"
+    },
+    {
+      "id": 15,
+      "name": "Jacob Hall",
+      "age": 21,
+      "major": "Art",
+      "email": "jacobhall@example.com"
+    },
+    {
+      "id": 16,
+      "name": "Lily Walker",
+      "age": 22,
+      "major": "Music",
+      "email": "lilywalker@example.com"
+    },
+    {
+      "id": 17,
+      "name": "Ethan King",
+      "age": 19,
+      "major": "Geology",
+      "email": "ethanking@example.com"
+    },
+    {
+      "id": 18,
+      "name": "Amelia Allen",
+      "age": 20,
+      "major": "Foreign Languages",
+      "email": "ameliaallen@example.com"
+    },
+    {
+      "id": 19,
+      "name": "Michaela Scott",
+      "age": 21,
+      "major": "Nursing",
+      "email": "michaelascott@example.com"
+    },
+    {
+      "id": 20,
+      "name": "Daniel Wright",
+      "age": 22,
+      "major": "Geology",
+      "email": "danielwright@example.com"
+    }
+  ]
+}
